@@ -1,6 +1,7 @@
 # ZAMIN
-/fix       https://urgent-fix-problem.netlify.app/       302  
-/go2       https://mehtab-content.netlify.app/site2       302
+/fix       https://urgent-fix-problem.netlify.app/       302
+# TOFIQUE
+/info-get       https://urgent-info-get.netlify.app/      301
 /get/yt    https://youtube.com/channel/abc123             302
 /problem   https://mehtab-content.netlify.app/problem     302
 /shop      https://mehtab-content.netlify.app/shop       302
